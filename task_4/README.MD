@@ -2,4 +2,4 @@
 
 ## [Блок-схема](diagram4.drawio.png)
 
-## 
+## [КОД](Program.cs)
