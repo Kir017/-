@@ -12,10 +12,3 @@ while (index < n + 1)
   }
   index = index + 1;
 }
-
-
-
-
-
-
-Console.WriteLine("Hello, World!");
